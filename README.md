@@ -1,6 +1,6 @@
 Hi there.
 
 My name is Guilherme\
-I've been interested in programming since my teenage years\
-Currently pursuing a degree on System Analysis and Development\
+I've always been interested in programming and technology\
+Currently pursuing a degree in System Analysis and Development\
 Still getting used to GitHub
