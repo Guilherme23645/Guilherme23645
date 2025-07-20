@@ -1,4 +1,4 @@
-<h1 style="color: red;">Hi there.</h1>
+Hi there.
 
 My name is Guilherme\
 I've always been interested in programming and technology\
